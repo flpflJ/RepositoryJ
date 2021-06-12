@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void goAI(){// пока ИИ выбирает ход случайно
+
         //try{TimeUnit.SECONDS.sleep(3);}catch (Exception e){}// искуственный интеллект думает
         int x,y;
         do {
